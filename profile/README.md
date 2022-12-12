@@ -3,7 +3,7 @@
 <h4>Welcome To MDGram Organisation</h4>
  </b>
 
-[<img src="" >]()
+[<img src="" align="right" width="200" height="200"/>]()
 
 </div>
 <details>
@@ -53,4 +53,4 @@ Search bar.
 <br>
 <div align="center">
 
-To stay updated Follow me
+To stay updated Follow 
