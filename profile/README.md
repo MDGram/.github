@@ -70,4 +70,4 @@ Credits:
 <br>
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download-MDGramYou%20-green?style=for-the-badge&logo=appveyor)](https://github.com/MDGramYou)
+[![Download](https://img.shields.io/badge/Download-MDGramYou%20-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/MDGramYou)
