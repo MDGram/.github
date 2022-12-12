@@ -3,7 +3,7 @@
 <h4>Welcome To MDGram Organisation</h4>
  </b>
 
-[<img src="" align="centre" width="200" height="200"/>]()
+[<img src="https://github.com/MDGramYou/.github/blob/main/resources/Logo.png" align="centre" width="200" height="200"/>]()
 
 </div>
 <details>
