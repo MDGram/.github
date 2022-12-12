@@ -56,13 +56,12 @@ Made By Richar Correa
 Special thanks to TELEGRAM.org
 
 Credits:
-- NekoGram
-- NekoX
-- Catogram
-- Ime Messenger
-- OWlGram
-- Yousef Al Basha
-- MDGramYou TEAM
+- [NekoGram](https://nekogram.app)
+- [NekoX](https://github.com/NekoX-Dev)
+- [Catogram](https://github.com/Catogram)
+- [Ime Messenger](https://www.imem.app)
+- [OWlGram](https://github.com/OwlGramDev)
+- [MDGramYou TEAM](https://github.com/MDGram)
 </details>
 <br>
 <br>
