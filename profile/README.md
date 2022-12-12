@@ -3,7 +3,7 @@
 <h4>Welcome To MDGram Organisation</h4>
  </b>
 
-[<img src="" align="right" width="200" height="200"/>]()
+[<img src="" align="centre" width="200" height="200"/>]()
 
 </div>
 <details>
