@@ -52,3 +52,9 @@ Search bar.
 - Ability to choose chat actionbar style
 - And much more to discover.
 </details>
+<br>
+<br>
+<br>
+<div align="center">
+
+To stay updated Follow me
