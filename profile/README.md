@@ -5,6 +5,8 @@
 
 [<img src="https://github.com/MDGramYou/.github/blob/main/resources/Logo.png" align="centre" width="200" height="200"/>]()
 
+[![Group](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MDGramClub)ㅤ [![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MDMods_You)
+
 </div>
 <details>
  <summary>Waths is MDGram?</summary>
