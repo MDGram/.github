@@ -48,6 +48,22 @@ Search bar.
 - Ability to choose chat actionbar style
 - And much more to discover.
 </details>
+
+<details>
+ <summary>Credits</summary>
+Made By Richar Correa
+
+Special thanks to TELEGRAM.org
+
+Credits:
+- NekoGram
+- NekoX
+- Catogram
+- Ime Messenger
+- OWlGram
+- Yousef Al Basha
+- MDGramYou TEAM
+</details>
 <br>
 <br>
 <br>
