@@ -2,35 +2,31 @@
  <b>
 <h4>Welcome To MDGram Organisation</h4>
  </b>
-</div>
 
+[<img src="" >]()
+
+</div>
 <details>
  <summary>Waths is MDGram?</summary>
-<br>
-<sup>
+
 MDGram Messenger is a client that uses the Telegram API or as others call it a Telegram fork, and of course it maintains all its official Telegram features, but MDGram brings extra features, plus MDGramYou is always characterized by its very good design Made in two focused styles such as MaterialYou and iOS Style and also contains customization where you can choose styles later its characteristics are detailed.
-</sup>
 </details>
 
 <details>
  <summary>Availability</summary>
-<br>
-<sup>
+
 MDGramYou is only available for Android and not for IOS devices, therefore it will have a recommendation for Android devices to use Android Minimum Android 5+ and later versions. MDGramYou is not available on PlayStore at the moment because it is in Approval Review, but you can also Get MDGram from this Official Website where updates and everything as MDGramYou will arrive.
-</sup>
 </details>
 
 <details>
  <summary>Advantages of MDGram Messenger</summary>
-<br>
-<sup>
+
 As mentioned, the strong point of MDGram is the interface design of both the main screen and the conversation screen and also the personalization styles to choose from… since for the short time that it has been developing MDGram already has a design very good and stable so that it can be used with total Normality.
-</sup>
 </details>
 
 <details>
  <summary>Features MDGram Messenger</summary>
-<br>
+
 As the main features of MDGram to mention, we have a variety that we will mention in detail so that you can see what MDGram brings. Broadly speaking, it has a different interface from the normal Telegram, Styles, mods, Design and more that we will mention below.
 
 - Home UI design 2 styles
