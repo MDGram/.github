@@ -3,9 +3,11 @@
 <h4>Welcome To MDGram Organisation</h4>
  </b>
 
-[<img src="https://github.com/MDGramYou/.github/blob/main/resources/Logo.png" align="centre" width="200" height="200"/>]()
+[<img src="https://github.com/MDGramYou/.github/blob/main/resources/Logo.png" align="centre" width="200" height="200"/>](https://github.com/ikx7a)
 
 [![Group](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MDGramClub)ㅤ [![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MDMods_You)
+
+</p>
 
 </div>
 <details>
@@ -65,9 +67,16 @@ Credits:
 - [OWlGram](https://github.com/OwlGramDev)
 - [MDGramYou TEAM](https://github.com/MDGram)
 </details>
+
+<details open>
+ <summary>Preview</summary>
+
+[![@Preview](https://rcmods-apps.xyz/wp-content/uploads/2022/05/Recurso-72mpd-1024x659.png)](https://github.com/MDGramYou)
+
+</details>
 <br>
 <br>
 <br>
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download-MDGramYou%20-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/MDGramYou)
+[![Download](https://img.shields.io/badge/Download-MDGramYou%20-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/MDGramYou/MDGramYou)
